@@ -259,18 +259,18 @@ function App() {
             </div>
           </div>
         </section>
-
-        <footer className="poster-footer" id="contacto">
-          <div className="social-strip">
-            <span>Seguime</span>
-            <a href="#">IG</a>
-            <a href="#">TT</a>
-            <a href="#">YT</a>
-            <a href="#">X</a>
-          </div>
-          <p>La vida es demasiado corta para ser normal.</p>
-        </footer>
       </section>
+
+      <footer className="poster-footer" id="contacto">
+        <div className="social-strip">
+          <span>Seguime</span>
+          <a href="#">IG</a>
+          <a href="#">TT</a>
+          <a href="#">YT</a>
+          <a href="#">X</a>
+        </div>
+        <p>La vida es demasiado corta para ser normal.</p>
+      </footer>
     </main>
   )
 }
