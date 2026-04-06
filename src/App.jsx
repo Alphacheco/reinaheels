@@ -81,7 +81,7 @@ function App() {
 
         <section className="hero-grid" id="inicio">
           <div className="hero-copy">
-            <p className="hero-label">Icon. Drama. Fantasy.</p>
+            <p className="hero-label">ESCENA</p>
             <h1 className="hero-title">REINA</h1>
             <p className="hero-script">Heels</p>
             <p className="hero-description">
@@ -101,12 +101,6 @@ function App() {
           </div>
 
           <div className="hero-visual">
-            <img
-              src="/hero.jpg"
-              alt="Retrato principal"
-              className="hero-photo"
-            />
-            <div className="visual-overlay" />
 
             <aside className="quote-card">
               <p className="quote-mark">&ldquo;</p>
