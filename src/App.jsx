@@ -74,17 +74,22 @@ function App() {
     <main className="showcase-shell">
       <section className="poster-frame">
         <header className="topbar">
-          <a className="contact-chip" href="#contacto">
-            Contacto
-          </a>
+          <div className="topbar-actions">
+            <a className="contact-chip" href="#contacto">
+              Contacto
+            </a>
+            <a className="contact-chip" href="#bookings">
+              alquiler de atuendos
+            </a>
+          </div>
         </header>
 
         <section className="hero-grid" id="inicio">
           <div className="hero-copy">
             
-            <h1 className="hero-title">REINA</h1>
-            <p className="hero-script">Heels</p>
-            <p className="hero-label">ESCENA</p>
+            <h1 className="hero-title">REINA HEELS</h1>
+            <p className="hero-script">Escena</p>
+            
             <p className="hero-description">
               Un show construido como portada: moda, humor, lipsync y una presencia
               escenica que mezcla glamour pop con precision teatral.
