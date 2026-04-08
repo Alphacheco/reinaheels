@@ -81,9 +81,9 @@ function App() {
 
         <section className="hero-grid" id="inicio">
           <div className="hero-copy">
-            <p className="hero-label">ESCENA</p>
-            <h1 className="hero-title">REINA</h1>
-            <p className="hero-script">Heels</p>
+            
+            <h1 className="hero-title">REINA <br />HEELS</h1>
+            <p className="hero-script">Escena</p>
             <p className="hero-description">
               Un show construido como portada: moda, humor, lipsync y una presencia
               escenica que mezcla glamour pop con precision teatral.
